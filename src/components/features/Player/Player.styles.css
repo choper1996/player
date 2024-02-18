@@ -1,0 +1,33 @@
+.player {
+    width: 100%;
+    max-width: 580px;
+    height: 200px;
+    background-color: #FFFDFD;
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    background-image: url("../../../assets/images/logo.png");
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position-x: 30%;
+    padding-left: 12px;
+    padding-right: 180px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.player__tools-row {
+    display: flex;
+    align-items: center;
+}
+
+.player__tools-row .button {
+    margin-right: 10px;
+}
+
+.sound-name {
+    width: 100%;
+    text-align: center;
+}

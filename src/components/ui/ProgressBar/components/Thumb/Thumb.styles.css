@@ -1,0 +1,14 @@
+.thumb {
+    height: 42px;
+    width: 42px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.thumb__marker {
+    height: 12px;
+    width: 12px;
+    border-radius: 12px;
+    background-color: #05AC6A;
+}

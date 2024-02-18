@@ -1,0 +1,16 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #EFE8E8;
+  background-image: url("assets/images/background.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-x: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
